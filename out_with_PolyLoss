@@ -1,0 +1,100 @@
+Epoch: 0
+Training accuracy: 90.08333333333333
+Test accuracy: 85.66666666666667
+Epoch: 1
+Training accuracy: 95.66666666666667
+Test accuracy: 89.33333333333333
+“
+This is the  classification report:...
+
+              precision    recall  f1-score   support
+
+     class 0     0.8856    0.9033    0.8944       300
+     class 1     0.9014    0.8833    0.8923       300
+
+    accuracy                         0.8933       600
+   macro avg     0.8935    0.8933    0.8933       600
+weighted avg     0.8935    0.8933    0.8933       600
+ 
+
+Epoch: 2
+Training accuracy: 96.83333333333333
+Test accuracy: 86.0
+Epoch: 3
+Training accuracy: 97.41666666666667
+Test accuracy: 86.33333333333333
+Epoch: 4
+Training accuracy: 98.0
+Test accuracy: 82.5
+Epoch: 5
+Training accuracy: 98.16666666666667
+Test accuracy: 81.0
+Epoch: 6
+Training accuracy: 99.5
+Test accuracy: 89.83333333333333
+“
+This is the  classification report:...
+
+              precision    recall  f1-score   support
+
+     class 0     0.9918    0.8033    0.8877       300
+     class 1     0.8347    0.9933    0.9072       300
+
+    accuracy                         0.8983       600
+   macro avg     0.9133    0.8983    0.8974       600
+weighted avg     0.9133    0.8983    0.8974       600
+ 
+
+Epoch: 7
+Training accuracy: 99.58333333333333
+Test accuracy: 80.66666666666667
+Epoch: 8
+Training accuracy: 99.41666666666667
+Test accuracy: 81.33333333333333
+Epoch: 9
+Training accuracy: 99.91666666666667
+Test accuracy: 85.33333333333333
+Epoch: 10
+Training accuracy: 99.33333333333333
+Test accuracy: 77.66666666666667
+Epoch: 11
+Training accuracy: 99.41666666666667
+Test accuracy: 83.0
+Epoch: 12
+Training accuracy: 99.91666666666667
+Test accuracy: 72.0
+Epoch: 13
+Training accuracy: 100.0
+Test accuracy: 84.16666666666667
+Epoch: 14
+Training accuracy: 99.91666666666667
+Test accuracy: 77.66666666666667
+Epoch: 15
+Training accuracy: 99.83333333333333
+Test accuracy: 90.0
+“
+This is the  classification report:...
+
+              precision    recall  f1-score   support
+
+     class 0     0.9225    0.8733    0.8973       300
+     class 1     0.8797    0.9267    0.9026       300
+
+    accuracy                         0.9000       600
+   macro avg     0.9011    0.9000    0.8999       600
+weighted avg     0.9011    0.9000    0.8999       600
+ 
+
+Epoch: 16
+Training accuracy: 100.0
+Test accuracy: 79.5
+Epoch: 17
+Training accuracy: 100.0
+Test accuracy: 82.0
+Epoch: 18
+Training accuracy: 100.0
+Test accuracy: 80.5
+Epoch: 19
+Training accuracy: 100.0
+Test accuracy: 77.0
+90.0
